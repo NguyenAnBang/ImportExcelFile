@@ -1,0 +1,86 @@
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\appsettings.json
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.exe
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.deps.json
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.runtimeconfig.json
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.runtimeconfig.dev.json
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ref\ImportExcel.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.pdb
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\EPPlus.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.csprojAssemblyReference.cache
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.AssemblyInfoInputs.cache
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.AssemblyInfo.cs
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.csproj.CoreCompileInputs.cache
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\staticwebassets\ImportExcel.StaticWebAssets.Manifest.cache
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\staticwebassets\ImportExcel.StaticWebAssets.xml
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\scopedcss\bundle\ImportExcel.styles.css
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.RazorTargetAssemblyInfo.cache
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.csproj.CopyComplete
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ref\ImportExcel.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.pdb
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.genruntimeconfig.cache
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Dapper.dll
+C:\Users\nabang\Downloads\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\MySqlConnector.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\appsettings.Development.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\appsettings.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.exe
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.deps.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.runtimeconfig.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.runtimeconfig.dev.json
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ref\ImportExcel.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\ImportExcel.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Dapper.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\EPPlus.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\MySqlConnector.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.csprojAssemblyReference.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.AssemblyInfoInputs.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.AssemblyInfo.cs
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.csproj.CoreCompileInputs.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.MvcApplicationPartsAssemblyInfo.cs
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.MvcApplicationPartsAssemblyInfo.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\staticwebassets\ImportExcel.StaticWebAssets.Manifest.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\staticwebassets\ImportExcel.StaticWebAssets.xml
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\scopedcss\bundle\ImportExcel.styles.css
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.RazorTargetAssemblyInfo.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.csproj.CopyComplete
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ref\ImportExcel.dll
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.pdb
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.genruntimeconfig.cache
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.Properties.Resources.resources
+D:\Đại học\Học kì 2 2020-2021\Web - MISA\(tháng 5) 05-05\Import Excel\Import Excel\ImportExcel\ImportExcel\obj\Debug\net5.0\ImportExcel.csproj.GenerateResource.cache
